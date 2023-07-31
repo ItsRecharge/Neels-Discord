@@ -4,8 +4,8 @@
 
 A darkened discord theme with rounded chat and sidebars.
 
-<img width=800 src="https://github.com/neelmaster101/Neels-Discord/blob/9dc106f56cdbec592b57f27e8164f0ab12a82b04/Main.png">
-<img length=800 src="https://github.com/neelmaster101/Neels-Discord/blob/9dc106f56cdbec592b57f27e8164f0ab12a82b04/Icons.png">
+<img width=1000 src="https://github.com/neelmaster101/Neels-Discord/blob/9dc106f56cdbec592b57f27e8164f0ab12a82b04/Main.png">
+<img height=800 src="https://github.com/neelmaster101/Neels-Discord/blob/9dc106f56cdbec592b57f27e8164f0ab12a82b04/Icons.png">
 
 ## install
 
