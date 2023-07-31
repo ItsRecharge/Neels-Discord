@@ -11,7 +11,7 @@ A darkened discord theme with rounded chat and sidebars.
 
 Download and put the `Neel's-Discord.theme.css` files into your betterdiscord (or other client) theme folder.
 Or
-Copy [URL to raw](https://github.com/ItsRecharge/Neels-Discord/blob/0a956856b389ab555df181ef73c2a87a116d7ba7/Neel's-Discord.theme.css) `Neel's-Discord.theme.css` and paste into provided area to use URL based themes in Vencord (or other client)
+Copy [URL to raw](https://raw.githubusercontent.com/ItsRecharge/Neels-Discord/main/Neel's-Discord.theme.css) `Neel's-Discord.theme.css` and paste into provided area to use URL based themes in Vencord (or other client)
 
 IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!
 
