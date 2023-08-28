@@ -14,18 +14,6 @@
 	--spacing: 12px;
 	/* radius of round corners */
 	--roundness: 16px;
-
-	/* color of links */
-	--accent-1: hsl(190, 70%, 60%);
-	/* color of unread dividers and some indicators */
-	--accent-2: hsl(190, 70%, 50%);
-	/* color of accented buttons */
-	--accent-3: hsl(190, 70%, 40%);
-	/* color of accented buttons when hovered */
-	--accent-4: hsl(190, 70%, 30%);
-	/* color of accented buttons when clicked */
-	--accent-5: hsl(190, 70%, 20%);
-
 	/* color of mentions and messages that mention you */
 	--mention: hsla(190, 60%, 50%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
@@ -61,17 +49,10 @@
 
 /* fix colors */
 .mentioned-Tre-dv:before /* mention message left edge */,
-.container-1QtPKm.checked-16gMAN /* settings checkbuttons */ {
-	background: var(--accent-3) !important;
-}
-.numberBadge-37OJ3S /* dm unread number */ {
-	background: var(--accent-2) !important;
-	/* color: var(--bg-4); */
-}
+.container-1QtPKm.checked-16gMAN /* settings checkbuttons */ 
+.numberBadge-37OJ3S /* dm unread number */ 
 .expandedFolderIconWrapper-3RwQpD svg /* folder icons */,
-.strikethrough-2Kl6HF /* mute button strikethrough */ {
-	color: var(--accent-2) !important;
-}
+.strikethrough-2Kl6HF /* mute button strikethrough */ 
 .folderIconWrapper-1oRIZr {
 	background-color: transparent !important;
 }
@@ -81,12 +62,8 @@
 .clickable-vvKY2q .header-3OsQeK:hover, .selected-1GtAC5 .header-3OsQeK /* server name hover */ {
 	background: var(--message-hover);
 }
-.divider-2rZFJK /* unread dividers */ {
-	--divider-color: var(--accent-2);
-}
-.iconBadge-3Mmg92 /* dm button */ {
-	background: var(--accent-2) !important;
-}
+.divider-2rZFJK /* unread dividers */ 
+.iconBadge-3Mmg92 /* dm button */ 
 .theme-dark .container-2IKOsH /* browse channels back */,
 .theme-dark .header-3xB4vB /* browse channels header */,
 .theme-dark .container-1um7CU /* browse channels body */,
@@ -309,4 +286,3 @@
 	font-weight: 600;
 	color: var(--text-5);
 }
-
